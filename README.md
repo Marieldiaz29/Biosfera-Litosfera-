@@ -1,11 +1,11 @@
 # Práctica: Biosfera y Litosfera
 
-Repositorio con la documentación, código y resultados correspondientes al estudio de la Biosfera y Litosfera.
+Repositorio con la documentación, código y evidencias correspondientes a la práctica de la Biosfera y Litosfera.
 
 ## 📁 Contenido del Repositorio
 
-* **`CÓDIGO`**: Algoritmos y scripts procesados para el análisis del proyecto.
-* **`PRÁCTICA LITOSFERA.jpeg`**: Capturas e imágenes de evidencia del desarrollo de la práctica.
-* **`Reporte_Resultados_Biosfera_Litosfera.pdf`**: Documento detallado con los resultados e interpretaciones obtenidas.
-* **`Reporte_Tecnico_Biosfera_Litosfera.pdf`**: Reporte técnico completo con el marco conceptual y desarrollo del proyecto.
-* **`VIDEO YT`**: Enlace o recurso del video explicativo publicado en YouTube.
+* **`CÓDIGO`**: Código utilizado para el funcionamiento del sensor.
+* **`PRÁCTICA LITOSFERA.jpeg`**: Imagen del circuito armado para la práctica.
+* **`Reporte_Resultados_Biosfera_Litosfera.pdf`**: Documento detallado con los resultados obtenidos.
+* **`Reporte_Tecnico_Biosfera_Litosfera.pdf`**: Reporte técnico con la documentación y marco teórico de la práctica.
+* **`VIDEO YT`**: Enlace o evidencia del video explicativo publicado en YouTube.
